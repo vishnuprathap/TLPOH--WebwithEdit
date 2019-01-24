@@ -1,0 +1,17 @@
+<b>What is a valve</b><size=0>. ,</size>
+ 
+A valve is any device for halting or controlling the flow of a liquid, gas, or other material through a passage, pipe, inlet, outlet, etc. The most common valve that you all know is the basic household tap.
+
+A household tap is a control valve, which means you can control the amount of flow by turning the handle until the desired flow is achieved..
+
+Valves main functions is to control the fluid flow by Isolation, Control, Check or Non return.
+
+Safety and Relief valves that open to relieve pressure to protect process or equipment for over pressurization, Regulators that modulate to control the upstream or downstream pressure.
+
+<b><color=yellow> Valve Categories</b></color=yellow><size=0>. ,</size>
+
+<indent=3%>•<indent=6%>Isolation valves</indent></indent><size=0>. ,</size>
+<indent=3%>•<indent=6%>Control Valves</indent></indent><size=0>. ,</size>
+<indent=3%>•<indent=6%>Check or Non Return Valves</indent></indent><size=0>. ,</size>
+<indent=3%>•<indent=6%>Safety or Relief Valves</indent></indent><size=0>. ,</size>
+<indent=3%>•<indent=6%>Regulators</indent></indent><size=0>. ,</size>
